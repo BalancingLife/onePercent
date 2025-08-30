@@ -41,7 +41,7 @@ AI는 개발 보조 도구로만 활용하고, 전체 코드는 직접 손코딩
 
 ---
 
-## 🛠 기술 스택
+## 기술 스택
 
 - **Frontend:** Vite, React, TypeScript
 - **Architecture:** Feature-Sliced Design (FSD)
